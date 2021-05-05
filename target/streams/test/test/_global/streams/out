@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(BillGeneratorIntegrationSpec, specs2 Specification fingerprint, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mBillGeneratorIntegrationSpec[0m
+[0m[[0m[0minfo[0m] [0m[0mBill generator should[0m
+[0m[[0m[0minfo[0m] [0m[0m  [32m+[0m generate material bill[0m
+[0m[[0m[0minfo[0m] [0m[0mTotal for specification BillGeneratorIntegrationSpec[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mFinished in 184 ms[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36m[0m[36m1 example, 0 failure, 0 error[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for specs2 not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 1, Failed 0, Errors 0, Passed 1[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BillGeneratorIntegrationSpec[0m
